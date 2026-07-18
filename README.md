@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Aryan Kumar 👋
 
-<!--
-**aryyancode/aryyancode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Engineering student at Noida International University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about software development, problem-solving, and continuously learning new technologies.
+
+🌱 Currently learning Full-Stack Development and building real-world projects.
+
+🎯 Looking for internships and entry-level opportunities in Software Development and IT.
+
+---
+
+## 🛠️ Tech Stack
+
+- C
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- Visual Studio Code
+
+---
+
+## 📜 Certifications
+
+- JPMorgan Chase & Co. – Software Engineering Job Simulation
+- Deloitte – Technology Job Simulation
+- Deloitte – Data Analytics Job Simulation
+- Tata – GenAI Powered Data Analytics
+- Mastercard – Cybersecurity Job Simulation
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/aryyancode
+- Email: aryyancode@gmail.com
+
+---
+
+> "Every expert was once a beginner."
